@@ -103,6 +103,5 @@
 # v=int(input())
 # print(sum_product(x=w,y=u,z=v))
 
-def summing(n):    
-    n= int(input())
+
                  
